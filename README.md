@@ -2,7 +2,7 @@
 
 ## _Trabalho para a disciplina de Design de Interação e Interface UX/UI_
 
-O **AgroVet Monitor** é um aplicativo mobile focado no controle sanitário, produtivo e na rastreabilidade de rebanhos em fazendas de pecuária (bovinocultura de corte/leite e suinocultura). A plataforma integra a leitura automatizada de brincos eletrônicos (**TAG RFID**) a um prontuário médico digital e ao agendamento de consultas em tempo real, gerando **Alertas Epidemiológicos Precoces** para mitigar perdas no campo.
+O **Animal Control** é um aplicativo mobile focado no controle sanitário, produtivo e na rastreabilidade de rebanhos em fazendas de pecuária (bovinocultura de corte/leite e suinocultura). A plataforma integra a leitura automatizada de brincos eletrônicos (**TAG RFID**) a um prontuário médico digital e ao agendamento de consultas em tempo real, gerando **Alertas Epidemiológicos Precoces** para mitigar perdas no campo.
 
 Este projeto foi desenvolvido como parte do trabalho prático e teórico de mapeamento de jornada, arquitetura de informação e design de interface.
 
